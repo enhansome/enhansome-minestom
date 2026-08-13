@@ -1,0 +1,433 @@
+{
+  "items": [
+    {
+      "description": "Reusable code that pairs very well with Minestom. If it offers extensions, it's side effect free to the limit of logging.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hephaestus-engine",
+          "description": "Render, animate and interact with custom entity models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-28T06:39:56Z",
+            "owner": "unnamed",
+            "repo": "hephaestus-engine",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WorldSeedEntityEngine",
+          "description": "Straightforward multi-part entity construction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-03T00:41:33Z",
+            "owner": "AtlasEngineCa",
+            "repo": "WorldSeedEntityEngine",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ParticleEmitter",
+          "description": "Library for drawing particle effects with Snowstorm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-28T21:51:55Z",
+            "owner": "AtlasEngineCa",
+            "repo": "ParticleEmitter",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mc_debug_render",
+          "description": "Draw arbitrary debug shapes on the client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-25T00:52:25Z",
+            "owner": "mworzala",
+            "repo": "mc_debug_renderer",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RayFast",
+          "description": "A fast raycasting libary.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2025-02-22T08:08:16Z",
+            "owner": "emortalmc",
+            "repo": "Rayfast",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TNT",
+          "description": "Experimental fast world format.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-12-15T02:34:42Z",
+            "owner": "emortalmc",
+            "repo": "TNT",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orbis",
+          "description": "WIP extensible world generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-11-12T21:18:31Z",
+            "owner": "AzortisCode",
+            "repo": "Orbis",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EnoidaPF",
+          "description": "High performance voxel pathfinding implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2022-08-01T21:45:18Z",
+            "owner": "RinesThaix",
+            "repo": "EnodiaPF",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NBStom",
+          "description": "NBS reader and player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-07-18T19:29:15Z",
+            "owner": "emortalmc",
+            "repo": "NBStom",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scaffolding",
+          "description": "Place and load schematics.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-05-27T13:01:12Z",
+            "owner": "hyperadev",
+            "repo": "Scaffolding",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MineScreen",
+          "description": "A Java library for simplifying UI development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-02-25T18:29:08Z",
+            "owner": "kiip1",
+            "repo": "MineScreen",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "Jars or libraries that integrate straight into Minestom. May also have programatic APIs or offer standalone versions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UnifiedMetrics",
+          "description": "Cross-compatible fully-featured metrics collection agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T23:42:40Z",
+            "owner": "Cubxity",
+            "repo": "UnifiedMetrics",
+            "stars": 541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grakkit",
+          "description": "A modern JavaScript development environment for Minecraft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-01-05T02:47:23Z",
+            "owner": "grakkit",
+            "repo": "grakkit",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MinestomPVP",
+          "description": "Implement PVP in your server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-30T12:54:24Z",
+            "owner": "TogAr2",
+            "repo": "MinestomPvP",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nightclub",
+          "description": "An extensible in-minecraft light show.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-09-28T14:57:22Z",
+            "owner": "dev-hydrogen",
+            "repo": "Nightclub",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MinestomFluids",
+          "description": "Fluid handling and implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-07-11T11:10:06Z",
+            "owner": "TogAr2",
+            "repo": "MinestomFluids",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MinestomAirConditioner",
+          "description": "Anticheat that prevents blatant hacking.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-03-15T18:16:42Z",
+            "owner": "LooFifteen",
+            "repo": "MinestomAirConditioner",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BasicRedstone",
+          "description": "Basic redstone implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-08-09T17:55:36Z",
+            "owner": "TogAr2",
+            "repo": "BasicRedstone",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minesumo",
+          "description": "A sumo extension with stats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-06-12T17:00:30Z",
+            "owner": "GoldenGamerLP",
+            "repo": "Minesumo",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Extensions"
+    },
+    {
+      "description": "Implementation of Minestom that allow for server administrators to get a server up and running",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VanillaReimplementation",
+          "description": "Reimplementation of Vanilla features in Minestom (WIP).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-10-03T13:15:21Z",
+            "owner": "Minestom",
+            "repo": "VanillaReimplementation",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sabre",
+          "description": "A customizable and simple server jar.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2024-08-28T19:28:37Z",
+            "owner": "Project-Cepi",
+            "repo": "Sabre",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microstom",
+          "description": "A lightweight jar with only the smallest of defauts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2026-06-16T21:27:01Z",
+            "owner": "self-crafted",
+            "repo": "microstom",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MineMeeting",
+          "description": "Quick throwaway no-trace servers for hosting meetings in Minecraft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-01-08T06:40:09Z",
+            "owner": "iceBear67",
+            "repo": "MineMeeting",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BasicMinestomServer",
+          "description": "Barebones extension-only server jar.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2025-03-22T16:41:33Z",
+            "owner": "Protonull",
+            "repo": "Extenstom",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Implementations"
+    },
+    {
+      "description": "Open-source minecraft projects -- projects without an available hosted instance.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WynnLab",
+          "description": "An attempt at remixing Wynncraft in a Minestom environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-09-30T17:42:48Z",
+            "owner": "WynnLab",
+            "repo": "WynnLab-Minestom",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doomstom",
+          "description": "Port of Doom to Minestom.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2023-08-09T20:36:49Z",
+            "owner": "Astralchroma",
+            "repo": "Doomstom",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tower Defence",
+          "description": "A tower defence game inspired by CubeCraft's Tower Defence and Bloons TD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-07-07T22:02:30Z",
+            "owner": "towerdefence-cc",
+            "repo": "tower-defence",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlockScreen",
+          "description": "Screensharing in Minecraft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-12-15T02:22:32Z",
+            "owner": "emortaldev",
+            "repo": "BlockScreen",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Open Projects"
+    },
+    {
+      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:30:18.445Z",
+    "original_repository": "tristan-f-r/awesome-minestom",
+    "original_repository_sha": "5b8019faaa539738a271036c0172d6a855f570d6",
+    "enhanced_repository": "enhansome/enhansome-minestom",
+    "enhanced_repository_description": null,
+    "title": "Awesome Minestom with stars"
+  }
+}
