@@ -287,9 +287,9 @@
           "description": "Reimplementation of Vanilla features in Minestom (WIP).",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "Java",
-            "last_commit": "2025-10-03T13:15:21Z",
+            "last_commit": "2026-08-15T22:24:41Z",
             "owner": "Minestom",
             "repo": "VanillaReimplementation",
             "stars": 159
@@ -423,7 +423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:53:06.819Z",
+    "last_updated": "2026-08-16T11:53:45.304Z",
     "original_repository": "tristan-f-r/awesome-minestom",
     "original_repository_sha": "5b8019faaa539738a271036c0172d6a855f570d6",
     "enhanced_repository": "enhansome/enhansome-minestom",

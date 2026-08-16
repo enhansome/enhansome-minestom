@@ -59,7 +59,7 @@ Minestom is an open-source library that enables developers to create their own M
 
 *Implementation of Minestom that allow for server administrators to get a server up and running*
 
-* [VanillaReimplementation](https://github.com/Minestom/VanillaReimplementation) ⭐ 159 | 🐛 19 | 🌐 Java | 📅 2025-10-03 - Reimplementation of Vanilla features in Minestom (WIP).
+* [VanillaReimplementation](https://github.com/Minestom/VanillaReimplementation) ⚠️ Archived - Reimplementation of Vanilla features in Minestom (WIP).
 * [Sabre](https://github.com/Project-Cepi/Sabre) ⚠️ Archived - A customizable and simple server jar.
 * [microstom](https://github.com/KlainStom/microstom) ⚠️ Archived - A lightweight jar with only the smallest of defauts.
 * [MineMeeting](https://github.com/iceBear67/MineMeeting) ⭐ 10 | 🐛 0 | 🌐 Java | 📅 2023-01-08 - Quick throwaway no-trace servers for hosting meetings in Minecraft.
@@ -92,4 +92,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
