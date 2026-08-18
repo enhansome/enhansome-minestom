@@ -30,9 +30,9 @@ Minestom is an open-source library that enables developers to create their own M
 
 *Reusable code that pairs very well with Minestom. If it offers extensions, it's side effect free to the limit of logging.*
 
-* [hephaestus-engine](https://github.com/unnamed/hephaestus-engine) ⭐ 226 | 🐛 14 | 🌐 Java | 📅 2026-05-28 - Render, animate and interact with custom entity models.
+* [hephaestus-engine](https://github.com/unnamed/hephaestus-engine) ⭐ 227 | 🐛 14 | 🌐 Java | 📅 2026-05-28 - Render, animate and interact with custom entity models.
 * [WorldSeedEntityEngine](https://github.com/WorldSeedGames/WorldSeedEntityEngine) ⭐ 223 | 🐛 3 | 🌐 Java | 📅 2026-08-03 - Straightforward multi-part entity construction.
-* [ParticleEmitter](https://github.com/WorldSeedGames/ParticleEmitter) ⭐ 78 | 🐛 2 | 🌐 Java | 📅 2026-06-28 - Library for drawing particle effects with [Snowstorm](https://snowstorm.app/)
+* [ParticleEmitter](https://github.com/WorldSeedGames/ParticleEmitter) ⭐ 79 | 🐛 2 | 🌐 Java | 📅 2026-06-28 - Library for drawing particle effects with [Snowstorm](https://snowstorm.app/)
 * [mc\_debug\_render](https://github.com/mworzala/mc_debug_renderer) ⭐ 62 | 🐛 7 | 🌐 Java | 📅 2024-08-25 - Draw arbitrary debug shapes on the client.
 * [RayFast](https://github.com/emortalmc/Rayfast) ⚠️ Archived - A fast raycasting libary.
 * [TNT](https://github.com/EmortalMC/TNT) ⚠️ Archived - Experimental fast world format.
@@ -48,9 +48,9 @@ Minestom is an open-source library that enables developers to create their own M
 
 * [UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics/) ⭐ 541 | 🐛 33 | 🌐 Kotlin | 📅 2026-08-07 - Cross-compatible fully-featured metrics collection agent.
 * [grakkit](https://github.com/grakkit/grakkit) ⭐ 232 | 🐛 12 | 🌐 Java | 📅 2025-01-05 - A modern JavaScript development environment for Minecraft.
-* [MinestomPVP](https://github.com/TogAr2/MinestomPvP) ⭐ 183 | 🐛 18 | 🌐 Java | 📅 2026-05-30 - Implement PVP in your server.
+* [MinestomPVP](https://github.com/TogAr2/MinestomPvP) ⭐ 184 | 🐛 18 | 🌐 Java | 📅 2026-05-30 - Implement PVP in your server.
 * [Nightclub](https://github.com/dev-hydrogen/Nightclub) ⭐ 34 | 🐛 0 | 🌐 Java | 📅 2023-09-28 - An extensible in-minecraft light show.
-* [MinestomFluids](https://github.com/TogAr2/MinestomFluids) ⭐ 25 | 🐛 2 | 🌐 Java | 📅 2025-07-11 - Fluid handling and implementation.
+* [MinestomFluids](https://github.com/TogAr2/MinestomFluids) ⭐ 26 | 🐛 2 | 🌐 Java | 📅 2025-07-11 - Fluid handling and implementation.
 * [MinestomAirConditioner](https://github.com/LooFifteen/MinestomAirConditioner) ⚠️ Archived - Anticheat that prevents blatant hacking.
 * [BasicRedstone](https://github.com/TogAr2/BasicRedstone) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2021-08-09 - Basic redstone implementation.
 * [Minesumo](https://github.com/GoldenGamerLP/Minesumo) ⭐ 5 | 🐛 5 | 🌐 Java | 📅 2023-06-12 - A sumo extension with stats.
@@ -92,4 +92,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

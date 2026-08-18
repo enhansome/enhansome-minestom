@@ -14,7 +14,7 @@
             "last_commit": "2026-05-28T06:39:56Z",
             "owner": "unnamed",
             "repo": "hephaestus-engine",
-            "stars": 226
+            "stars": 227
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-06-28T21:51:55Z",
             "owner": "AtlasEngineCa",
             "repo": "ParticleEmitter",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2026-05-30T12:54:24Z",
             "owner": "TogAr2",
             "repo": "MinestomPvP",
-            "stars": 183
+            "stars": 184
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2025-07-11T11:10:06Z",
             "owner": "TogAr2",
             "repo": "MinestomFluids",
-            "stars": 25
+            "stars": 26
           }
         },
         {
@@ -423,7 +423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T11:55:57.520Z",
+    "last_updated": "2026-08-18T11:57:14.814Z",
     "original_repository": "tristan-f-r/awesome-minestom",
     "original_repository_sha": "5b8019faaa539738a271036c0172d6a855f570d6",
     "enhanced_repository": "enhansome/enhansome-minestom",
