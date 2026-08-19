@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 385948490,
             "language": "Java",
             "last_commit": "2026-05-28T06:39:56Z",
             "owner": "unnamed",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 493032583,
             "language": "Java",
             "last_commit": "2026-08-03T00:41:33Z",
             "owner": "AtlasEngineCa",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 551735602,
             "language": "Java",
             "last_commit": "2026-06-28T21:51:55Z",
             "owner": "AtlasEngineCa",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 423506051,
             "language": "Java",
             "last_commit": "2024-08-25T00:52:25Z",
             "owner": "mworzala",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 398200502,
             "language": "Java",
             "last_commit": "2025-02-22T08:08:16Z",
             "owner": "emortalmc",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 516380861,
             "language": "Java",
             "last_commit": "2023-12-15T02:34:42Z",
             "owner": "emortalmc",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331134300,
             "language": "Java",
             "last_commit": "2023-11-12T21:18:31Z",
             "owner": "AzortisCode",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 520132062,
             "language": "Kotlin",
             "last_commit": "2022-08-01T21:45:18Z",
             "owner": "RinesThaix",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 460920373,
             "language": "Java",
             "last_commit": "2025-07-18T19:29:15Z",
             "owner": "emortalmc",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 440817755,
             "language": "Java",
             "last_commit": "2023-05-27T13:01:12Z",
             "owner": "hyperadev",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 410608025,
             "language": "Java",
             "last_commit": "2023-02-25T18:29:08Z",
             "owner": "kiip1",
@@ -170,11 +181,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 330712847,
             "language": "Kotlin",
             "last_commit": "2026-08-07T23:42:40Z",
             "owner": "Cubxity",
             "repo": "UnifiedMetrics",
-            "stars": 541
+            "stars": 542
           }
         },
         {
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259138473,
             "language": "Java",
             "last_commit": "2025-01-05T02:47:23Z",
             "owner": "grakkit",
@@ -198,11 +211,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 378733785,
             "language": "Java",
             "last_commit": "2026-05-30T12:54:24Z",
             "owner": "TogAr2",
             "repo": "MinestomPvP",
-            "stars": 184
+            "stars": 185
           }
         },
         {
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 398067363,
             "language": "Java",
             "last_commit": "2023-09-28T14:57:22Z",
             "owner": "dev-hydrogen",
@@ -226,11 +241,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 527671560,
             "language": "Java",
             "last_commit": "2025-07-11T11:10:06Z",
             "owner": "TogAr2",
             "repo": "MinestomFluids",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 347756265,
             "language": "Java",
             "last_commit": "2021-03-15T18:16:42Z",
             "owner": "LooFifteen",
@@ -254,11 +271,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 391972875,
             "language": "Java",
             "last_commit": "2021-08-09T17:55:36Z",
             "owner": "TogAr2",
             "repo": "BasicRedstone",
-            "stars": 7
+            "stars": 8
           }
         },
         {
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 572149617,
             "language": "Java",
             "last_commit": "2023-06-12T17:00:30Z",
             "owner": "GoldenGamerLP",
@@ -288,11 +307,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 259475567,
             "language": "Java",
             "last_commit": "2026-08-15T22:24:41Z",
             "owner": "Minestom",
             "repo": "VanillaReimplementation",
-            "stars": 159
+            "stars": 160
           }
         },
         {
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 298999865,
             "language": "Kotlin",
             "last_commit": "2024-08-28T19:28:37Z",
             "owner": "Project-Cepi",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 392802520,
             "language": "Java",
             "last_commit": "2026-06-16T21:27:01Z",
             "owner": "self-crafted",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 580356595,
             "language": "Java",
             "last_commit": "2023-01-08T06:40:09Z",
             "owner": "iceBear67",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 366897373,
             "language": "Java",
             "last_commit": "2025-03-22T16:41:33Z",
             "owner": "Protonull",
@@ -364,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 389421865,
             "language": "Kotlin",
             "last_commit": "2023-09-30T17:42:48Z",
             "owner": "WynnLab",
@@ -378,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 557018891,
             "language": "Kotlin",
             "last_commit": "2023-08-09T20:36:49Z",
             "owner": "Astralchroma",
@@ -392,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 565597748,
             "language": "Java",
             "last_commit": "2023-07-07T22:02:30Z",
             "owner": "towerdefence-cc",
@@ -406,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469857886,
             "language": "Kotlin",
             "last_commit": "2023-12-15T02:22:32Z",
             "owner": "emortaldev",
@@ -415,16 +443,12 @@
         }
       ],
       "title": "Open Projects"
-    },
-    {
-      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:57:14.814Z",
+    "last_updated": "2026-08-19T11:57:01.195Z",
     "original_repository": "tristan-f-r/awesome-minestom",
+    "original_repository_id": 585220276,
     "original_repository_sha": "5b8019faaa539738a271036c0172d6a855f570d6",
     "enhanced_repository": "enhansome/enhansome-minestom",
     "enhanced_repository_description": null,
