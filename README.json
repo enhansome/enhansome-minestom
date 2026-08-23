@@ -12,7 +12,7 @@
             "archived": false,
             "id": 385948490,
             "language": "Java",
-            "last_commit": "2026-05-28T06:39:56Z",
+            "last_commit": "2026-08-23T04:07:45Z",
             "owner": "unnamed",
             "repo": "hephaestus-engine",
             "stars": 227
@@ -183,10 +183,10 @@
             "archived": false,
             "id": 330712847,
             "language": "Kotlin",
-            "last_commit": "2026-08-07T23:42:40Z",
+            "last_commit": "2026-08-22T20:10:04Z",
             "owner": "Cubxity",
             "repo": "UnifiedMetrics",
-            "stars": 542
+            "stars": 543
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-05-30T12:54:24Z",
             "owner": "TogAr2",
             "repo": "MinestomPvP",
-            "stars": 185
+            "stars": 186
           }
         },
         {
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:54:26.449Z",
+    "last_updated": "2026-08-23T11:54:46.019Z",
     "original_repository": "tristan-f-r/awesome-minestom",
     "original_repository_id": 585220276,
     "original_repository_sha": "5b8019faaa539738a271036c0172d6a855f570d6",
