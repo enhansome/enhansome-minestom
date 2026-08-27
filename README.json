@@ -183,10 +183,10 @@
             "archived": false,
             "id": 330712847,
             "language": "Kotlin",
-            "last_commit": "2026-08-25T20:38:54Z",
+            "last_commit": "2026-08-26T21:31:55Z",
             "owner": "Cubxity",
             "repo": "UnifiedMetrics",
-            "stars": 544
+            "stars": 545
           }
         },
         {
@@ -446,9 +446,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T12:00:45.185Z",
-    "original_repository": "tristan-f-r/awesome-minestom",
-    "original_repository_id": 585220276,
+    "last_updated": "2026-08-27T11:50:15.836Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 585220276,
+      "language": null,
+      "last_commit": "2023-06-22T16:18:10Z",
+      "owner": "tristan-f-r",
+      "repo": "awesome-minestom",
+      "stars": 72
+    },
     "original_repository_sha": "5b8019faaa539738a271036c0172d6a855f570d6",
     "enhanced_repository": "enhansome/enhansome-minestom",
     "enhanced_repository_description": null,
