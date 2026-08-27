@@ -48,7 +48,7 @@ Minestom is an open-source library that enables developers to create their own M
 
 * [UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics/) ⭐ 545 | 🐛 33 | 🌐 Kotlin | 📅 2026-08-26 - Cross-compatible fully-featured metrics collection agent.
 * [grakkit](https://github.com/grakkit/grakkit) ⭐ 232 | 🐛 12 | 🌐 Java | 📅 2025-01-05 - A modern JavaScript development environment for Minecraft.
-* [MinestomPVP](https://github.com/TogAr2/MinestomPvP) ⭐ 186 | 🐛 18 | 🌐 Java | 📅 2026-05-30 - Implement PVP in your server.
+* [MinestomPVP](https://github.com/TogAr2/MinestomPvP) ⭐ 186 | 🐛 19 | 🌐 Java | 📅 2026-05-30 - Implement PVP in your server.
 * [Nightclub](https://github.com/dev-hydrogen/Nightclub) ⭐ 34 | 🐛 0 | 🌐 Java | 📅 2023-09-28 - An extensible in-minecraft light show.
 * [MinestomFluids](https://github.com/TogAr2/MinestomFluids) ⭐ 27 | 🐛 2 | 🌐 Java | 📅 2025-07-11 - Fluid handling and implementation.
 * [MinestomAirConditioner](https://github.com/LooFifteen/MinestomAirConditioner) ⚠️ Archived - Anticheat that prevents blatant hacking.
