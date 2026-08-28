@@ -16,7 +16,8 @@
             "owner": "unnamed",
             "repo": "hephaestus-engine",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 493032583,
             "language": "Java",
-            "last_commit": "2026-08-03T00:41:33Z",
+            "last_commit": "2026-08-28T05:25:30Z",
             "owner": "AtlasEngineCa",
             "repo": "WorldSeedEntityEngine",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "AtlasEngineCa",
             "repo": "ParticleEmitter",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mworzala",
             "repo": "mc_debug_renderer",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "emortalmc",
             "repo": "Rayfast",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "emortalmc",
             "repo": "TNT",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "AzortisCode",
             "repo": "Orbis",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "RinesThaix",
             "repo": "EnodiaPF",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "emortalmc",
             "repo": "NBStom",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "hyperadev",
             "repo": "Scaffolding",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "kiip1",
             "repo": "MineScreen",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         }
       ],
       "title": "Libraries"
@@ -183,11 +194,12 @@
             "archived": false,
             "id": 330712847,
             "language": "Kotlin",
-            "last_commit": "2026-08-26T21:31:55Z",
+            "last_commit": "2026-08-28T16:55:17Z",
             "owner": "Cubxity",
             "repo": "UnifiedMetrics",
             "stars": 545
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "grakkit",
             "repo": "grakkit",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "TogAr2",
             "repo": "MinestomPvP",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "dev-hydrogen",
             "repo": "Nightclub",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "TogAr2",
             "repo": "MinestomFluids",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "LooFifteen",
             "repo": "MinestomAirConditioner",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "TogAr2",
             "repo": "BasicRedstone",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "GoldenGamerLP",
             "repo": "Minesumo",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         }
       ],
       "title": "Extensions"
@@ -313,7 +332,8 @@
             "owner": "Minestom",
             "repo": "VanillaReimplementation",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "Project-Cepi",
             "repo": "Sabre",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "self-crafted",
             "repo": "microstom",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "iceBear67",
             "repo": "MineMeeting",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "Protonull",
             "repo": "Extenstom",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         }
       ],
       "title": "Implementations"
@@ -394,7 +418,8 @@
             "owner": "WynnLab",
             "repo": "WynnLab-Minestom",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "Astralchroma",
             "repo": "Doomstom",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "towerdefence-cc",
             "repo": "tower-defence",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         },
         {
           "node_type": "item",
@@ -439,14 +466,15 @@
             "owner": "emortaldev",
             "repo": "BlockScreen",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
         }
       ],
       "title": "Open Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:18:26.063Z",
+    "last_updated": "2026-08-28T21:31:23.572Z",
     "original_repository_info": {
       "archived": false,
       "id": 585220276,
