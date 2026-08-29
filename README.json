@@ -79,7 +79,7 @@
             "open_issues": 2,
             "owner": "AtlasEngineCa",
             "repo": "ParticleEmitter",
-            "stars": 79,
+            "stars": 80,
             "topics": [
               "minecraft",
               "minecraft-java-edition",
@@ -388,7 +388,7 @@
             "open_issues": 19,
             "owner": "TogAr2",
             "repo": "MinestomPvP",
-            "stars": 186,
+            "stars": 185,
             "topics": [
               "combat",
               "legacy-minecraft",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:04:16.295Z",
+    "last_updated": "2026-08-29T15:44:58.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
