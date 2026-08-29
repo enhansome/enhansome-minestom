@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Render, animate and interact with custom entity models in Minecraft: Java Edition servers",
+            "homepage": "https://unnamed.team/docs/hephaestus-engine",
             "id": 385948490,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-23T04:07:45Z",
+            "open_issues": 14,
             "owner": "unnamed",
             "repo": "hephaestus-engine",
-            "stars": 227
+            "stars": 227,
+            "topics": [
+              "blockbench",
+              "bukkit",
+              "minecraft",
+              "minecraft-java-edition",
+              "minecraft-model",
+              "minecraft-model-library",
+              "minestom-library",
+              "model",
+              "resource-pack",
+              "resourcepack"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -26,12 +42,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bedrock models in vanilla Minecraft",
+            "homepage": null,
             "id": 493032583,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T05:25:30Z",
+            "open_issues": 4,
             "owner": "AtlasEngineCa",
             "repo": "WorldSeedEntityEngine",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "blockbench",
+              "minecraft",
+              "minecraft-java-edition",
+              "minestom-library",
+              "model",
+              "resourcepack"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -42,12 +70,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for drawing particle effects in Minecraft java edition using bedrock json files",
+            "homepage": null,
             "id": 551735602,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-28T21:51:55Z",
+            "open_issues": 2,
             "owner": "AtlasEngineCa",
             "repo": "ParticleEmitter",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "minecraft",
+              "minecraft-java-edition",
+              "minestom-library",
+              "snowstorm"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -58,12 +96,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enables servers to render debug shapes on the client.",
+            "homepage": null,
             "id": 423506051,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-08-25T00:52:25Z",
+            "open_issues": 7,
             "owner": "mworzala",
             "repo": "mc_debug_renderer",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "fabricmc",
+              "minecraft",
+              "minestom-library"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -74,12 +121,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Rayfast is a wayfast raycast java library.",
+            "homepage": null,
             "id": 398200502,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-02-22T08:08:16Z",
+            "open_issues": 12,
             "owner": "emortalmc",
             "repo": "Rayfast",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "minestom-library"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -90,12 +144,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "TNT is an experimental world format for Minestom",
+            "homepage": null,
             "id": 516380861,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-12-15T02:34:42Z",
+            "open_issues": 6,
             "owner": "emortalmc",
             "repo": "TNT",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "minestom",
+              "minestom-extension",
+              "minestom-library"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -106,12 +169,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An opensource minecraft world generator for PaperMC & more",
+            "homepage": null,
             "id": 331134300,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2023-11-12T21:18:31Z",
+            "open_issues": 0,
             "owner": "AzortisCode",
             "repo": "Orbis",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "bukkit",
+              "minecraft",
+              "minecraft-world-gen",
+              "minestom",
+              "paper",
+              "procedural-generation",
+              "spigot",
+              "world-generation",
+              "world-generator"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -122,12 +200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minestom pathfinding engine",
+            "homepage": null,
             "id": 520132062,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-01T21:45:18Z",
+            "open_issues": 2,
             "owner": "RinesThaix",
             "repo": "EnodiaPF",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -138,12 +221,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A NBS reader and player for Minestom",
+            "homepage": null,
             "id": 460920373,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-07-18T19:29:15Z",
+            "open_issues": 5,
             "owner": "emortalmc",
             "repo": "NBStom",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "minestom",
+              "minestom-library"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -154,12 +245,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Schematic library for Minestom",
+            "homepage": null,
             "id": 440817755,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-05-27T13:01:12Z",
+            "open_issues": 6,
             "owner": "hyperadev",
             "repo": "Scaffolding",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "hacktoberfest",
+              "minestom",
+              "minestom-library"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -170,12 +270,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Minestom GUIs using an easy to use api.",
+            "homepage": null,
             "id": 410608025,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-02-25T18:29:08Z",
+            "open_issues": 0,
             "owner": "kiip1",
             "repo": "MineScreen",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "maps",
+              "minecraft",
+              "minestom",
+              "minestom-library"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         }
@@ -192,12 +302,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.",
+            "homepage": null,
             "id": 330712847,
             "language": "Kotlin",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-28T16:55:17Z",
+            "open_issues": 33,
             "owner": "Cubxity",
             "repo": "UnifiedMetrics",
-            "stars": 545
+            "stars": 545,
+            "topics": [
+              "api",
+              "bukkit",
+              "folia",
+              "grafana",
+              "grafana-dashboard",
+              "hacktoberfest",
+              "influxdb",
+              "metrics",
+              "metrics-collection",
+              "minecraft",
+              "minestom-extension",
+              "monitoring",
+              "prometheus",
+              "prometheus-exporter",
+              "spigot",
+              "velocity"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -208,12 +340,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern JavaScript development environment for Minecraft.",
+            "homepage": null,
             "id": 259138473,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-01-05T02:47:23Z",
+            "open_issues": 12,
             "owner": "grakkit",
             "repo": "grakkit",
-            "stars": 232
+            "stars": 232,
+            "topics": [
+              "engine",
+              "esnext",
+              "graalvm",
+              "javascript",
+              "minecraft",
+              "minecraft-mod",
+              "minecraft-plugin",
+              "minestom",
+              "minestom-extension",
+              "mod",
+              "modular",
+              "paper",
+              "paper-plugin",
+              "plugin",
+              "spigot",
+              "spigot-plugin",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -224,12 +379,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minecraft combat library for Minestom, with support for both 1.9+ and 1.8 combat",
+            "homepage": null,
             "id": 378733785,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-30T12:54:24Z",
+            "open_issues": 19,
             "owner": "TogAr2",
             "repo": "MinestomPvP",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "combat",
+              "legacy-minecraft",
+              "minecraft",
+              "minecraft-combat",
+              "minecraft-pvp",
+              "minestom",
+              "minestom-library",
+              "pvp"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -240,12 +409,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Completely customizable music-reactive resource-pack-based lightshows plugin for minecraft",
+            "homepage": "https://www.spigotmc.org/resources/nightclub-music-visualiser.94801/",
             "id": 398067363,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-09-28T14:57:22Z",
+            "open_issues": 0,
             "owner": "dev-hydrogen",
             "repo": "Nightclub",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "minecraft",
+              "minestom-extension",
+              "spigot-plugin"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -256,12 +434,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fluid/liquid library for Minestom",
+            "homepage": null,
             "id": 527671560,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-07-11T11:10:06Z",
+            "open_issues": 2,
             "owner": "TogAr2",
             "repo": "MinestomFluids",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "minestom",
+              "minestom-library"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -272,12 +458,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple anticheat for Minestom, it's one of those projects that works enough to just about do its job.",
+            "homepage": null,
             "id": 347756265,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-03-15T18:16:42Z",
+            "open_issues": 0,
             "owner": "LooFifteen",
             "repo": "MinestomAirConditioner",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "anticheat",
+              "minestom",
+              "minestom-extension"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -288,12 +483,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Very basic redstone for Minestom",
+            "homepage": null,
             "id": 391972875,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2021-08-09T17:55:36Z",
+            "open_issues": 0,
             "owner": "TogAr2",
             "repo": "BasicRedstone",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "minestom-extension",
+              "minestom-library",
+              "redstone"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -304,12 +508,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sumo in Minestom with Stats",
+            "homepage": null,
             "id": 572149617,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-06-12T17:00:30Z",
+            "open_issues": 5,
             "owner": "GoldenGamerLP",
             "repo": "Minesumo",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "game",
+              "gamemode",
+              "minestom-extension",
+              "mongodb",
+              "sumo"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         }
@@ -326,12 +541,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Reimplementation of Vanilla features in Minestom",
+            "homepage": null,
             "id": 259475567,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T22:24:41Z",
+            "open_issues": 19,
             "owner": "Minestom",
             "repo": "VanillaReimplementation",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "java",
+              "minecraft",
+              "minecraft-server",
+              "minecraft-vanilla",
+              "minestom",
+              "reimplementation",
+              "vanilla"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -342,12 +570,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Sabre is a configurable server jar for Minestom",
+            "homepage": null,
             "id": 298999865,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2024-08-28T19:28:37Z",
+            "open_issues": 25,
             "owner": "Project-Cepi",
             "repo": "Sabre",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "jar",
+              "kotlin",
+              "minecraft",
+              "minestom",
+              "minestom-implementation",
+              "minestom-server",
+              "sabre"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -358,12 +599,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Minimal minecraft server using minestom.",
+            "homepage": null,
             "id": 392802520,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-06-16T21:27:01Z",
+            "open_issues": 0,
             "owner": "self-crafted",
             "repo": "microstom",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "minecraft",
+              "minecraft-server",
+              "minestom",
+              "minestom-implementation",
+              "minestom-server"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -374,12 +626,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "淫趴🥵 | Simple meeting rooms in Minecraft, powered by Minestom. | No Logs, No Tracks",
+            "homepage": null,
             "id": 580356595,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-01-08T06:40:09Z",
+            "open_issues": 0,
             "owner": "iceBear67",
             "repo": "MineMeeting",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "minestom-implementation"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -390,12 +649,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Barebones Microtus server",
+            "homepage": null,
             "id": 366897373,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-03-22T16:41:33Z",
+            "open_issues": 0,
             "owner": "Protonull",
             "repo": "Extenstom",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "microtus",
+              "microtus-implementation",
+              "microtus-server",
+              "minecraft",
+              "minecraft-server",
+              "minestom",
+              "minestom-implementation",
+              "minestom-server"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         }
@@ -412,12 +685,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental reimplementation of WynnLab/Wynncraft on the Minestom platform",
+            "homepage": null,
             "id": 389421865,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2023-09-30T17:42:48Z",
+            "open_issues": 0,
             "owner": "WynnLab",
             "repo": "WynnLab-Minestom",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "minecraft",
+              "minestom",
+              "wynncraft",
+              "wynncraft-recreation"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -428,12 +711,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Some hacky code to get the Java DOOM port \"Mochadoom\" running under Minestom",
+            "homepage": null,
             "id": 557018891,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2023-08-09T20:36:49Z",
+            "open_issues": 0,
             "owner": "Astralchroma",
             "repo": "Doomstom",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -444,12 +732,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 565597748,
             "language": "Java",
+            "license": "LGPL-2.1",
             "last_commit": "2023-07-07T22:02:30Z",
+            "open_issues": 10,
             "owner": "towerdefence-cc",
             "repo": "tower-defence",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         },
@@ -460,12 +753,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Screencast using Minecraft blocks using Minestom!",
+            "homepage": null,
             "id": 469857886,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2023-12-15T02:22:32Z",
+            "open_issues": 1,
             "owner": "emortaldev",
             "repo": "BlockScreen",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "minestom",
+              "minestom-server"
+            ]
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
         }
@@ -474,15 +775,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:31:23.572Z",
+    "last_updated": "2026-08-29T05:04:16.295Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
+      "homepage": null,
       "id": 585220276,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2023-06-22T16:18:10Z",
+      "open_issues": 1,
       "owner": "tristan-f-r",
       "repo": "awesome-minestom",
-      "stars": 72
+      "stars": 72,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-minestom",
+        "minestom"
+      ]
     },
     "original_repository_sha": "5b8019faaa539738a271036c0172d6a855f570d6",
     "enhanced_repository": "enhansome/enhansome-minestom",
