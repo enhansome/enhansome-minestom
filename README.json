@@ -15,7 +15,7 @@
             "id": 385948490,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-08-23T04:07:45Z",
+            "last_commit": "2026-08-29T20:18:31Z",
             "open_issues": 14,
             "owner": "unnamed",
             "repo": "hephaestus-engine",
@@ -51,7 +51,7 @@
             "open_issues": 4,
             "owner": "AtlasEngineCa",
             "repo": "WorldSeedEntityEngine",
-            "stars": 223,
+            "stars": 224,
             "topics": [
               "blockbench",
               "minecraft",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:44:58.067Z",
+    "last_updated": "2026-08-30T15:27:31.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
