@@ -130,7 +130,7 @@
             "open_issues": 12,
             "owner": "emortalmc",
             "repo": "Rayfast",
-            "stars": 39,
+            "stars": 41,
             "topics": [
               "minestom-library"
             ]
@@ -388,7 +388,7 @@
             "open_issues": 19,
             "owner": "TogAr2",
             "repo": "MinestomPvP",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "combat",
               "legacy-minecraft",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T15:27:31.594Z",
+    "last_updated": "2026-08-31T18:07:30.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
