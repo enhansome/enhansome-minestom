@@ -388,7 +388,7 @@
             "open_issues": 19,
             "owner": "TogAr2",
             "repo": "MinestomPvP",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "combat",
               "legacy-minecraft",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:32:02.753Z",
+    "last_updated": "2026-09-02T15:16:03.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
