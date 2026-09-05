@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "unnamed",
             "repo": "hephaestus-engine",
-            "stars": 227,
+            "stars": 228,
             "topics": [
               "blockbench",
               "bukkit",
@@ -311,7 +311,7 @@
             "open_issues": 33,
             "owner": "Cubxity",
             "repo": "UnifiedMetrics",
-            "stars": 545,
+            "stars": 544,
             "topics": [
               "api",
               "bukkit",
@@ -547,7 +547,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-15T22:24:41Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "Minestom",
             "repo": "VanillaReimplementation",
             "stars": 160,
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T15:05:04.403Z",
+    "last_updated": "2026-09-05T13:59:52.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
