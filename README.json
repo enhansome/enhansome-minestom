@@ -307,7 +307,7 @@
             "id": 330712847,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-07T13:59:06Z",
+            "last_commit": "2026-09-07T22:14:49Z",
             "open_issues": 33,
             "owner": "Cubxity",
             "repo": "UnifiedMetrics",
@@ -694,7 +694,7 @@
             "open_issues": 0,
             "owner": "WynnLab",
             "repo": "WynnLab-Minestom",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "minecraft",
               "minestom",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:38:56.361Z",
+    "last_updated": "2026-09-08T15:17:52.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",

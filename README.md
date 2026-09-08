@@ -69,7 +69,7 @@ Minestom is an open-source library that enables developers to create their own M
 
 *Open-source minecraft projects -- projects without an available hosted instance.*
 
-* [WynnLab](https://github.com/WynnLab/WynnLab-Minestom) ⭐ 9 | 🐛 0 | 🌐 Kotlin | 📅 2023-09-30 - An attempt at remixing Wynncraft in a Minestom environment.
+* [WynnLab](https://github.com/WynnLab/WynnLab-Minestom) ⭐ 10 | 🐛 0 | 🌐 Kotlin | 📅 2023-09-30 - An attempt at remixing Wynncraft in a Minestom environment.
 * [Doomstom](https://github.com/Peter-Crawley/Doomstom) ⚠️ Archived - Port of Doom to Minestom.
 * [Tower Defence](https://github.com/towerdefence-cc/tower-defence) ⭐ 5 | 🐛 10 | 🌐 Java | 📅 2023-07-07 - A tower defence game inspired by CubeCraft's Tower Defence and Bloons TD.
 * [BlockScreen](https://github.com/emortaldev/blockscreen) ⭐ 4 | 🐛 1 | 🌐 Kotlin | 📅 2023-12-15 - Screensharing in Minecraft.
@@ -92,4 +92,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
