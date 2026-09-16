@@ -307,7 +307,7 @@
             "id": 330712847,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-14T21:54:34Z",
+            "last_commit": "2026-09-16T11:55:48Z",
             "open_issues": 33,
             "owner": "Cubxity",
             "repo": "UnifiedMetrics",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T15:40:09.903Z",
+    "last_updated": "2026-09-16T15:31:41.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
