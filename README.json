@@ -79,7 +79,7 @@
             "open_issues": 2,
             "owner": "AtlasEngineCa",
             "repo": "ParticleEmitter",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "minecraft",
               "minecraft-java-edition",
@@ -311,7 +311,7 @@
             "open_issues": 33,
             "owner": "Cubxity",
             "repo": "UnifiedMetrics",
-            "stars": 544,
+            "stars": 543,
             "topics": [
               "api",
               "bukkit",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:38:32.348Z",
+    "last_updated": "2026-09-18T15:07:20.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
