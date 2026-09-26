@@ -30,7 +30,7 @@ Minestom is an open-source library that enables developers to create their own M
 
 *Reusable code that pairs very well with Minestom. If it offers extensions, it's side effect free to the limit of logging.*
 
-* [hephaestus-engine](https://github.com/unnamed/hephaestus-engine) ⭐ 229 | 🐛 14 | 🌐 Java | 📅 2026-09-06 - Render, animate and interact with custom entity models.
+* [hephaestus-engine](https://github.com/unnamed/hephaestus-engine) ⭐ 228 | 🐛 14 | 🌐 Java | 📅 2026-09-06 - Render, animate and interact with custom entity models.
 * [WorldSeedEntityEngine](https://github.com/WorldSeedGames/WorldSeedEntityEngine) ⭐ 225 | 🐛 8 | 🌐 Java | 📅 2026-08-28 - Straightforward multi-part entity construction.
 * [ParticleEmitter](https://github.com/WorldSeedGames/ParticleEmitter) ⭐ 81 | 🐛 2 | 🌐 Java | 📅 2026-06-28 - Library for drawing particle effects with [Snowstorm](https://snowstorm.app/)
 * [mc\_debug\_render](https://github.com/mworzala/mc_debug_renderer) ⭐ 62 | 🐛 7 | 🌐 Java | 📅 2024-08-25 - Draw arbitrary debug shapes on the client.
@@ -92,4 +92,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
