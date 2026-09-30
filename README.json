@@ -706,6 +706,27 @@
         },
         {
           "node_type": "item",
+          "title": "Tower Defence",
+          "description": "A tower defence game inspired by CubeCraft's Tower Defence and Bloons TD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 565597748,
+            "language": "Java",
+            "license": "LGPL-2.1",
+            "last_commit": "2023-07-07T22:02:30Z",
+            "open_issues": 10,
+            "owner": "towerdefence-cc",
+            "repo": "tower-defence",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:31:23.572Z"
+        },
+        {
+          "node_type": "item",
           "title": "Doomstom",
           "description": "Port of Doom to Minestom.",
           "children": [],
@@ -721,27 +742,6 @@
             "owner": "Astralchroma",
             "repo": "Doomstom",
             "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:31:23.572Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Tower Defence",
-          "description": "A tower defence game inspired by CubeCraft's Tower Defence and Bloons TD.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 565597748,
-            "language": "Java",
-            "license": "LGPL-2.1",
-            "last_commit": "2023-07-07T22:02:30Z",
-            "open_issues": 10,
-            "owner": "towerdefence-cc",
-            "repo": "tower-defence",
-            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T17:00:18.848Z",
+    "last_updated": "2026-09-30T16:59:15.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
