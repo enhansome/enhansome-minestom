@@ -79,7 +79,7 @@
             "open_issues": 2,
             "owner": "AtlasEngineCa",
             "repo": "ParticleEmitter",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "minecraft",
               "minecraft-java-edition",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:00:14.108Z",
+    "last_updated": "2026-10-06T17:23:44.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
