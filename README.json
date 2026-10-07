@@ -307,7 +307,7 @@
             "id": 330712847,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-03T07:03:38Z",
+            "last_commit": "2026-10-07T08:28:00Z",
             "open_issues": 33,
             "owner": "Cubxity",
             "repo": "UnifiedMetrics",
@@ -349,7 +349,7 @@
             "open_issues": 12,
             "owner": "grakkit",
             "repo": "grakkit",
-            "stars": 232,
+            "stars": 231,
             "topics": [
               "engine",
               "esnext",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T17:23:44.394Z",
+    "last_updated": "2026-10-07T17:57:13.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
