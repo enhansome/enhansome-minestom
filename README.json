@@ -307,7 +307,7 @@
             "id": 330712847,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-07T08:28:00Z",
+            "last_commit": "2026-10-08T15:52:19Z",
             "open_issues": 33,
             "owner": "Cubxity",
             "repo": "UnifiedMetrics",
@@ -388,7 +388,7 @@
             "open_issues": 19,
             "owner": "TogAr2",
             "repo": "MinestomPvP",
-            "stars": 187,
+            "stars": 188,
             "topics": [
               "combat",
               "legacy-minecraft",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:57:13.710Z",
+    "last_updated": "2026-10-08T17:59:09.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
