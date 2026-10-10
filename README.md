@@ -46,7 +46,7 @@ Minestom is an open-source library that enables developers to create their own M
 
 *Jars or libraries that integrate straight into Minestom. May also have programatic APIs or offer standalone versions.*
 
-* [UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics/) ⭐ 544 | 🐛 33 | 🌐 Kotlin | 📅 2026-10-08 - Cross-compatible fully-featured metrics collection agent.
+* [UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics/) ⭐ 544 | 🐛 33 | 🌐 Kotlin | 📅 2026-10-10 - Cross-compatible fully-featured metrics collection agent.
 * [grakkit](https://github.com/grakkit/grakkit) ⭐ 231 | 🐛 12 | 🌐 Java | 📅 2025-01-05 - A modern JavaScript development environment for Minecraft.
 * [MinestomPVP](https://github.com/TogAr2/MinestomPvP) ⭐ 188 | 🐛 19 | 🌐 Java | 📅 2026-05-30 - Implement PVP in your server.
 * [Nightclub](https://github.com/dev-hydrogen/Nightclub) ⭐ 35 | 🐛 0 | 🌐 Java | 📅 2023-09-28 - An extensible in-minecraft light show.
@@ -92,4 +92,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
