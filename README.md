@@ -37,7 +37,7 @@ Minestom is an open-source library that enables developers to create their own M
 * [RayFast](https://github.com/emortalmc/Rayfast) ⚠️ Archived - A fast raycasting libary.
 * [TNT](https://github.com/EmortalMC/TNT) ⚠️ Archived - Experimental fast world format.
 * [Orbis](https://github.com/AzortisCode/Orbis) ⭐ 29 | 🐛 0 | 🌐 Java | 📅 2023-11-12 - WIP extensible world generator.
-* [EnoidaPF](https://github.com/RinesThaix/EnodiaPF) ⭐ 24 | 🐛 2 | 🌐 Kotlin | 📅 2022-08-01 - High performance voxel pathfinding implementation.
+* [EnoidaPF](https://github.com/RinesThaix/EnodiaPF) ⭐ 25 | 🐛 2 | 🌐 Kotlin | 📅 2022-08-01 - High performance voxel pathfinding implementation.
 * [NBStom](https://github.com/emortalmc/NBStom) ⭐ 23 | 🐛 5 | 🌐 Java | 📅 2025-07-18 - [NBS](https://opennbs.org/) reader and player.
 * [Scaffolding](https://github.com/HyperaDev/Scaffolding) ⚠️ Archived - Place and load schematics.
 * [MineScreen](https://github.com/kiip1/MineScreen) ⭐ 11 | 🐛 0 | 🌐 Java | 📅 2023-02-25 - A Java library for simplifying UI development.
@@ -92,4 +92,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
