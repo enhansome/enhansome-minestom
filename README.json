@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "unnamed",
             "repo": "hephaestus-engine",
-            "stars": 228,
+            "stars": 227,
             "topics": [
               "blockbench",
               "bukkit",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T15:30:49.091Z",
+    "last_updated": "2026-10-17T14:24:01.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
