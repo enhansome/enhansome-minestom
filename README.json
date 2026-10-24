@@ -15,7 +15,7 @@
             "id": 385948490,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-15T01:34:05Z",
+            "last_commit": "2026-10-24T12:48:33Z",
             "open_issues": 14,
             "owner": "unnamed",
             "repo": "hephaestus-engine",
@@ -349,7 +349,7 @@
             "open_issues": 12,
             "owner": "grakkit",
             "repo": "grakkit",
-            "stars": 231,
+            "stars": 230,
             "topics": [
               "engine",
               "esnext",
@@ -550,7 +550,7 @@
             "open_issues": 18,
             "owner": "Minestom",
             "repo": "VanillaReimplementation",
-            "stars": 159,
+            "stars": 160,
             "topics": [
               "java",
               "minecraft",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:53:53.758Z",
+    "last_updated": "2026-10-24T14:51:15.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
