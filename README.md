@@ -88,8 +88,8 @@ Minestom is an open-source library that enables developers to create their own M
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/LeoDog896/awesome-minestom/blob/main/CONTRIBUTING.md) ⭐ 73 | 🐛 1 | 📅 2023-06-22 first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/LeoDog896/awesome-minestom/blob/main/CONTRIBUTING.md) ⭐ 74 | 🐛 1 | 📅 2023-06-22 first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
