@@ -31,7 +31,7 @@ Minestom is an open-source library that enables developers to create their own M
 *Reusable code that pairs very well with Minestom. If it offers extensions, it's side effect free to the limit of logging.*
 
 * [hephaestus-engine](https://github.com/unnamed/hephaestus-engine) ⭐ 227 | 🐛 14 | 🌐 Java | 📅 2026-10-24 - Render, animate and interact with custom entity models.
-* [WorldSeedEntityEngine](https://github.com/WorldSeedGames/WorldSeedEntityEngine) ⭐ 225 | 🐛 8 | 🌐 Java | 📅 2026-08-28 - Straightforward multi-part entity construction.
+* [WorldSeedEntityEngine](https://github.com/WorldSeedGames/WorldSeedEntityEngine) ⭐ 224 | 🐛 8 | 🌐 Java | 📅 2026-08-28 - Straightforward multi-part entity construction.
 * [ParticleEmitter](https://github.com/WorldSeedGames/ParticleEmitter) ⭐ 82 | 🐛 2 | 🌐 Java | 📅 2026-06-28 - Library for drawing particle effects with [Snowstorm](https://snowstorm.app/)
 * [mc\_debug\_render](https://github.com/mworzala/mc_debug_renderer) ⭐ 62 | 🐛 7 | 🌐 Java | 📅 2024-08-25 - Draw arbitrary debug shapes on the client.
 * [RayFast](https://github.com/emortalmc/Rayfast) ⚠️ Archived - A fast raycasting libary.
@@ -49,7 +49,7 @@ Minestom is an open-source library that enables developers to create their own M
 * [UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics/) ⭐ 545 | 🐛 33 | 🌐 Kotlin | 📅 2026-10-27 - Cross-compatible fully-featured metrics collection agent.
 * [grakkit](https://github.com/grakkit/grakkit) ⭐ 230 | 🐛 12 | 🌐 Java | 📅 2025-01-05 - A modern JavaScript development environment for Minecraft.
 * [MinestomPVP](https://github.com/TogAr2/MinestomPvP) ⭐ 188 | 🐛 19 | 🌐 Java | 📅 2026-05-30 - Implement PVP in your server.
-* [Nightclub](https://github.com/dev-hydrogen/Nightclub) ⭐ 35 | 🐛 0 | 🌐 Java | 📅 2023-09-28 - An extensible in-minecraft light show.
+* [Nightclub](https://github.com/dev-hydrogen/Nightclub) ⭐ 33 | 🐛 0 | 🌐 Java | 📅 2023-09-28 - An extensible in-minecraft light show.
 * [MinestomFluids](https://github.com/TogAr2/MinestomFluids) ⭐ 27 | 🐛 2 | 🌐 Java | 📅 2025-07-11 - Fluid handling and implementation.
 * [MinestomAirConditioner](https://github.com/LooFifteen/MinestomAirConditioner) ⚠️ Archived - Anticheat that prevents blatant hacking.
 * [BasicRedstone](https://github.com/TogAr2/BasicRedstone) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2021-08-09 - Basic redstone implementation.
@@ -92,4 +92,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._

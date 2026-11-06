@@ -51,7 +51,7 @@
             "open_issues": 8,
             "owner": "AtlasEngineCa",
             "repo": "WorldSeedEntityEngine",
-            "stars": 225,
+            "stars": 224,
             "topics": [
               "blockbench",
               "minecraft",
@@ -418,7 +418,7 @@
             "open_issues": 0,
             "owner": "dev-hydrogen",
             "repo": "Nightclub",
-            "stars": 35,
+            "stars": 33,
             "topics": [
               "minecraft",
               "minestom-extension",
@@ -550,7 +550,7 @@
             "open_issues": 18,
             "owner": "Minestom",
             "repo": "VanillaReimplementation",
-            "stars": 160,
+            "stars": 159,
             "topics": [
               "java",
               "minecraft",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T18:57:25.034Z",
+    "last_updated": "2026-11-06T18:24:16.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
