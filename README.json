@@ -443,7 +443,7 @@
             "open_issues": 2,
             "owner": "TogAr2",
             "repo": "MinestomFluids",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "minestom",
               "minestom-library"
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T18:24:16.125Z",
+    "last_updated": "2026-11-07T16:58:49.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
