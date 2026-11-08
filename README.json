@@ -307,11 +307,11 @@
             "id": 330712847,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-27T21:58:52Z",
+            "last_commit": "2026-11-07T19:37:50Z",
             "open_issues": 33,
             "owner": "Cubxity",
             "repo": "UnifiedMetrics",
-            "stars": 545,
+            "stars": 546,
             "topics": [
               "api",
               "bukkit",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:58:49.836Z",
+    "last_updated": "2026-11-08T17:13:49.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
