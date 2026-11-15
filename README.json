@@ -311,7 +311,7 @@
             "open_issues": 33,
             "owner": "Cubxity",
             "repo": "UnifiedMetrics",
-            "stars": 547,
+            "stars": 548,
             "topics": [
               "api",
               "bukkit",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T17:16:58.652Z",
+    "last_updated": "2026-11-15T17:57:51.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
