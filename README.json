@@ -349,7 +349,7 @@
             "open_issues": 12,
             "owner": "grakkit",
             "repo": "grakkit",
-            "stars": 230,
+            "stars": 229,
             "topics": [
               "engine",
               "esnext",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T17:57:51.275Z",
+    "last_updated": "2026-11-16T21:13:14.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
