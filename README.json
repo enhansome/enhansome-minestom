@@ -47,7 +47,7 @@
             "id": 493032583,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T05:25:30Z",
+            "last_commit": "2026-11-18T17:52:11Z",
             "open_issues": 8,
             "owner": "AtlasEngineCa",
             "repo": "WorldSeedEntityEngine",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:59:33.469Z",
+    "last_updated": "2026-11-18T19:33:27.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
