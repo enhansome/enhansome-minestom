@@ -15,7 +15,7 @@
             "id": 385948490,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-11T09:08:29Z",
+            "last_commit": "2026-11-19T18:18:22Z",
             "open_issues": 14,
             "owner": "unnamed",
             "repo": "hephaestus-engine",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T19:33:27.985Z",
+    "last_updated": "2026-11-19T19:36:44.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
