@@ -307,11 +307,11 @@
             "id": 330712847,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-11T22:30:49Z",
+            "last_commit": "2026-11-20T03:13:20Z",
             "open_issues": 33,
             "owner": "Cubxity",
             "repo": "UnifiedMetrics",
-            "stars": 548,
+            "stars": 546,
             "topics": [
               "api",
               "bukkit",
@@ -550,7 +550,7 @@
             "open_issues": 18,
             "owner": "Minestom",
             "repo": "VanillaReimplementation",
-            "stars": 159,
+            "stars": 158,
             "topics": [
               "java",
               "minecraft",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:36:44.632Z",
+    "last_updated": "2026-11-20T19:14:47.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
