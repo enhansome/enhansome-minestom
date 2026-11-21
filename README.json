@@ -385,7 +385,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-05-30T12:54:24Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "TogAr2",
             "repo": "MinestomPvP",
             "stars": 189,
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T19:14:47.927Z",
+    "last_updated": "2026-11-21T18:11:14.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
