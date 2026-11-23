@@ -209,7 +209,7 @@
             "open_issues": 2,
             "owner": "RinesThaix",
             "repo": "EnodiaPF",
-            "stars": 25,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T21:31:23.572Z"
@@ -388,7 +388,7 @@
             "open_issues": 18,
             "owner": "TogAr2",
             "repo": "MinestomPvP",
-            "stars": 189,
+            "stars": 188,
             "topics": [
               "combat",
               "legacy-minecraft",
@@ -492,7 +492,7 @@
             "open_issues": 0,
             "owner": "TogAr2",
             "repo": "BasicRedstone",
-            "stars": 8,
+            "stars": 7,
             "topics": [
               "minestom-extension",
               "minestom-library",
@@ -608,7 +608,7 @@
             "open_issues": 0,
             "owner": "self-crafted",
             "repo": "microstom",
-            "stars": 20,
+            "stars": 19,
             "topics": [
               "minecraft",
               "minecraft-server",
@@ -694,7 +694,7 @@
             "open_issues": 0,
             "owner": "WynnLab",
             "repo": "WynnLab-Minestom",
-            "stars": 10,
+            "stars": 9,
             "topics": [
               "minecraft",
               "minestom",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T18:38:12.632Z",
+    "last_updated": "2026-11-23T22:53:53.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",

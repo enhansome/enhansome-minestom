@@ -37,7 +37,7 @@ Minestom is an open-source library that enables developers to create their own M
 * [RayFast](https://github.com/emortalmc/Rayfast) ⚠️ Archived - A fast raycasting libary.
 * [TNT](https://github.com/EmortalMC/TNT) ⚠️ Archived - Experimental fast world format.
 * [Orbis](https://github.com/AzortisCode/Orbis) ⭐ 29 | 🐛 0 | 🌐 Java | 📅 2023-11-12 - WIP extensible world generator.
-* [EnoidaPF](https://github.com/RinesThaix/EnodiaPF) ⭐ 25 | 🐛 2 | 🌐 Kotlin | 📅 2022-08-01 - High performance voxel pathfinding implementation.
+* [EnoidaPF](https://github.com/RinesThaix/EnodiaPF) ⭐ 24 | 🐛 2 | 🌐 Kotlin | 📅 2022-08-01 - High performance voxel pathfinding implementation.
 * [NBStom](https://github.com/emortalmc/NBStom) ⭐ 23 | 🐛 5 | 🌐 Java | 📅 2025-07-18 - [NBS](https://opennbs.org/) reader and player.
 * [Scaffolding](https://github.com/HyperaDev/Scaffolding) ⚠️ Archived - Place and load schematics.
 * [MineScreen](https://github.com/kiip1/MineScreen) ⭐ 11 | 🐛 0 | 🌐 Java | 📅 2023-02-25 - A Java library for simplifying UI development.
@@ -48,11 +48,11 @@ Minestom is an open-source library that enables developers to create their own M
 
 * [UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics/) ⭐ 546 | 🐛 33 | 🌐 Kotlin | 📅 2026-11-20 - Cross-compatible fully-featured metrics collection agent.
 * [grakkit](https://github.com/grakkit/grakkit) ⭐ 229 | 🐛 12 | 🌐 Java | 📅 2025-01-05 - A modern JavaScript development environment for Minecraft.
-* [MinestomPVP](https://github.com/TogAr2/MinestomPvP) ⭐ 189 | 🐛 18 | 🌐 Java | 📅 2026-05-30 - Implement PVP in your server.
+* [MinestomPVP](https://github.com/TogAr2/MinestomPvP) ⭐ 188 | 🐛 18 | 🌐 Java | 📅 2026-05-30 - Implement PVP in your server.
 * [Nightclub](https://github.com/dev-hydrogen/Nightclub) ⭐ 33 | 🐛 0 | 🌐 Java | 📅 2023-09-28 - An extensible in-minecraft light show.
 * [MinestomFluids](https://github.com/TogAr2/MinestomFluids) ⭐ 28 | 🐛 2 | 🌐 Java | 📅 2025-07-11 - Fluid handling and implementation.
 * [MinestomAirConditioner](https://github.com/LooFifteen/MinestomAirConditioner) ⚠️ Archived - Anticheat that prevents blatant hacking.
-* [BasicRedstone](https://github.com/TogAr2/BasicRedstone) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2021-08-09 - Basic redstone implementation.
+* [BasicRedstone](https://github.com/TogAr2/BasicRedstone) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2021-08-09 - Basic redstone implementation.
 * [Minesumo](https://github.com/GoldenGamerLP/Minesumo) ⭐ 5 | 🐛 5 | 🌐 Java | 📅 2023-06-12 - A sumo extension with stats.
 
 ## Implementations
@@ -69,7 +69,7 @@ Minestom is an open-source library that enables developers to create their own M
 
 *Open-source minecraft projects -- projects without an available hosted instance.*
 
-* [WynnLab](https://github.com/WynnLab/WynnLab-Minestom) ⭐ 10 | 🐛 0 | 🌐 Kotlin | 📅 2023-09-30 - An attempt at remixing Wynncraft in a Minestom environment.
+* [WynnLab](https://github.com/WynnLab/WynnLab-Minestom) ⭐ 9 | 🐛 0 | 🌐 Kotlin | 📅 2023-09-30 - An attempt at remixing Wynncraft in a Minestom environment.
 * [Tower Defence](https://github.com/towerdefence-cc/tower-defence) ⭐ 6 | 🐛 10 | 🌐 Java | 📅 2023-07-07 - A tower defence game inspired by CubeCraft's Tower Defence and Bloons TD.
 * [Doomstom](https://github.com/Peter-Crawley/Doomstom) ⚠️ Archived - Port of Doom to Minestom.
 * [BlockScreen](https://github.com/emortaldev/blockscreen) ⭐ 4 | 🐛 1 | 🌐 Kotlin | 📅 2023-12-15 - Screensharing in Minecraft.
@@ -92,4 +92,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
