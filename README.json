@@ -15,7 +15,7 @@
             "id": 385948490,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-19T18:18:22Z",
+            "last_commit": "2026-11-27T11:51:12Z",
             "open_issues": 14,
             "owner": "unnamed",
             "repo": "hephaestus-engine",
@@ -307,7 +307,7 @@
             "id": 330712847,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-20T03:13:20Z",
+            "last_commit": "2026-11-27T16:55:47Z",
             "open_issues": 33,
             "owner": "Cubxity",
             "repo": "UnifiedMetrics",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T20:30:43.806Z",
+    "last_updated": "2026-11-27T20:16:41.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Minestom libraries, resources, projects, and servers.",
